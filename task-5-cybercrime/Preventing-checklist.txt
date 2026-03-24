@@ -1,0 +1,17 @@
+﻿TASK-5
+
+
+Stay Safe Online - Prevention Checklist
+
+
+1. Never share OTP, PIN, or banking details with anyone.
+2. Do not approve unknown or unexpected UPI payment requests.
+3. Always verify the sender before making any online transaction.
+4. Use strong and unique passwords for all accounts.
+5. Enable two-factor authentication for extra security.
+6. Avoid clicking on suspicious links or messages.
+7. Download apps only from official app stores (Play Store/App Store).
+8. Regularly check your bank statements and transaction history.
+9. Use secure internet connections and avoid public Wi-Fi for payments.
+10. Immediately report fraud on the National Cyber Crime Portal (cybercrime.gov.in).
+11. Call helpline number 1930 in case of financial fraud.
