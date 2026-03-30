@@ -109,7 +109,7 @@ These platforms will help in internships, projects, and career development over 
 * 5 questions included
 * Multiple choice and short answer
 * Responses stored in Google Sheets
-* Link for google form - (https://docs.google.com/forms/d/e/1FAIpQLScjxZQQc0yjx7HnvDm-P43BLWjhYZrijin82fFDniR_DIooUg/viewform?usp=publish-editor)
+* Link for google form - https://docs.google.com/forms/d/1Zt9RSEeNVTb8PchdvNyUhSnchxst9FkkM1T-teml1x8/edit
 
 This task improved collaboration and practical tool usage.
 
